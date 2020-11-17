@@ -1,2 +1,2 @@
 # DiceSaas
-An Saas application built with Python, Flask and Docker
+An Saas application built with Python, Flask and Docker.
