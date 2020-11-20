@@ -1,0 +1,1 @@
+from dicesaas.blueprints.page.views import page

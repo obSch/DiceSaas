@@ -1,4 +1,4 @@
-FROM python:2.7-slim
+FROM python:3.7.7-slim
 LABEL Obakeng Maikano <obmakno@gmail.com>
 
 ENV INSTALL_PATH /dicesaas
